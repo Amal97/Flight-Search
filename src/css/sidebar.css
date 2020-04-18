@@ -1,0 +1,42 @@
+.form-groups{
+  margin-bottom: 0.5rem;
+  margin-left: 5%;
+}
+
+.form-controls{
+  margin-left: 5%;
+  margin-bottom: 1rem;
+}
+
+.refineSearch{
+  height: 120px;
+  width: 100%;
+  background-color: whitesmoke;
+  opacity: 0.95;
+  margin-block-end : 50px;
+}
+
+
+.sideBarBackground{
+  width: 100%;
+  background-color: whitesmoke;
+  opacity: 0.95;
+  margin-block-end : 50px;
+}
+
+input[type=text] {
+    width:75%;
+    text-align: center;
+    margin-top: 5.5px;
+    /* margin: 1px 0;
+    padding-left: 10px; */
+    box-sizing: border-box;
+    /* border: none;
+    border-bottom: 1px solid black;
+    color:black;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke-color: black; */
+  
+  } 
+
+  
